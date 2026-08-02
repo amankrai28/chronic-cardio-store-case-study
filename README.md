@@ -1,13 +1,9 @@
-# A live DTC storefront, shipped by a non-engineer
+# A live DTC storefront (leveraged Shopify AI toolkit)
 
 **Chronic Cardio · Venture-launch project, Innovator (MGT 421), Yale SOM · Spring 2026**
 
-For my MBA venture-launch course I took a real-food endurance fuel brand from a static landing page to a production Shopify store — [chroniccardio.com](https://chroniccardio.com) — working solo, with Shopify's AI toolkit and Claude Code.
+For my MBA venture-launch, I worked on finding a gap in the endurance fueling market, drawing from my own endurance running journey. Shopify store — [chroniccardio.com](https://chroniccardio.com) — working solo, with Shopify's AI toolkit and Claude Code.
 
-| | |
-|---|---|
-| **1 weekend** | from Vercel landing page to live Shopify storefront |
-| **5** | custom page templates in production |
 | **14** | open-source fuel recipes published, with full formulation math |
 
 ## Context
